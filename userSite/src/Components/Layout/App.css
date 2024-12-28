@@ -1,0 +1,16 @@
+.smallScreenNav > a.active {
+  color: red;
+}
+.dark {
+  background-color: rgba(0, 0, 0, 0.871);
+}
+.smallScreenNav > a.active {
+  background-color: black;
+  color: white;
+}
+.navbarMain {
+  z-index: 1000;
+}
+.form-foradd > div > div > label > span {
+  color: white;
+}
