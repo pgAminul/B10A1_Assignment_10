@@ -27,6 +27,7 @@ function Navbar() {
     { title: "All Sports Equipment", link: "/sportsEquipment" },
     { title: "Add Equipment", link: "/addEquipment" },
     { title: "My Equipment List", link: "/myEquipment" },
+    { title: "Contact Us", link: "/contact" },
   ];
 
   const navigate = useNavigate();

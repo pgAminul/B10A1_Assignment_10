@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "aos": "^2.3.4",
+    "formik": "^2.4.6",
+    "react-toastify": "^11.0.2",
+    "yup": "^1.6.1"
+  }
+}

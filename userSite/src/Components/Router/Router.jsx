@@ -11,6 +11,7 @@ import MyProducts from "../Pages/MyProducts";
 import DetailsHomeCard from "../Pages/DetailsHomeCard";
 import AllCardDetails from "../Pages/AllCardDetails";
 import UpdateProduct from "../Pages/UpdateData";
+import Contact from "../Pages/Contact";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -72,6 +73,10 @@ const router = createBrowserRouter([
             <UpdateProduct />
           </PrivetRouter>
         ),
+      },
+      {
+        path: "contact",
+        element: <Contact />,
       },
     ],
   },
